@@ -1,25 +1,19 @@
-# README
+# Hubba Bubba Beeble Bobble - Backend
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A fun game created using JavaScript and the Phazer 3 Game Library. Use the Arrow Keys to Move and the Space Bar to shoot bubbles! Defeat as many enemys as possible and rack up the highest score!
 
-Things you may want to cover:
+Front-end is deployed at: https://hubble-bubble-beeble-bobble.firebaseapp.com/
 
-* Ruby version
+Currently Features:
 
-* System dependencies
+* Phazer 3 Game Library 
 
-* Configuration
+* Simple AI Logic 
 
-* Database creation
+* Physics Manipulation
 
-* Database initialization
+* Sprite Animations
 
-* How to run the test suite
+* Scoreboard
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# hubbabubbabeeblebobble-backend
+* JavaScript Front-End (https://github.com/kenneth-yu/Hubble-Bubble-Beeble-Bobble)
